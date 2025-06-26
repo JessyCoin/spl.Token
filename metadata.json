@@ -1,0 +1,21 @@
+{
+  "name": "Jessy Token",
+  "symbol": "JSY",
+  "description": "Jessy Token is a socially driven, utility-based meme token built on the Solana blockchain. It’s designed to support crypto traders during their most vulnerable.",
+  "image": "https://ipfs.io/ipfs/bafkreiel6jl3igc32x2h2uy7eikqkbzfm6wvov6262ksy3ouyg2tatpaxi",
+  "decimals": 5,
+  "extensions": {
+    "twitter": "https://x.com/JessyToken",
+    "telegram": "https://t.me/JessyToken",
+    "github": "https://github.com/JessyCoin"
+  },
+  "properties": {
+    "category": "utility",
+    "creators": [
+      {
+        "address": "Fys9RKrjyxjQEB3kNkMxH11wNmAj7K5AGmmbdSVK99YK",
+        "share": 100
+      }
+    ]
+  }
+}
